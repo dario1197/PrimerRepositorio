@@ -1,0 +1,3 @@
+En bases de datos he elegido la creacion de varias tablas que estamos usando para practicar.
+En entornos he elegido el primer ejercicio que hicimos y corregimos.(Tarea 1 de identificacion de requisitos)
+En programación he elegido un ejercicio que calcula la media de todos los numeros que se introduzcan por teclado, en el momento que se introduce uno negativo.
