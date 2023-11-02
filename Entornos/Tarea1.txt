@@ -1,0 +1,40 @@
+Tarea 01 – Identificación de requisitos
+Ejercicio 1
+Estás trabajando en el desarrollo de un Sistema de Gestión de Notas para estudiantes de
+DAW. Este sistema permitirá a los estudiantes consultar sus calificaciones, ver
+estadísticas de su rendimiento y recibir notificaciones sobre nuevos resultados.
+Los estudiantes podrán acceder al sistema con sus credenciales de usuario y contraseña.
+Una vez dentro, podrán realizar las siguientes acciones:
+• Ver sus calificaciones en tiempo real. → Funcional.
+• Recibir notificaciones por correo electrónico sobre cambios en sus calificaciones. → No
+funcional.
+• Filtrar y ordenar sus calificaciones por materia y fecha. → Funcional.
+• Descargar un informe de su rendimiento académico en formato PDF. → Funcional.
+• El sistema debe tener una disponibilidad del 99.9% durante el horario de clases
+(de 8:00 a.m. a 6:00 p.m., de lunes a viernes). → No funcional.
+•
+Las contraseñas de los estudiantes deben almacenarse de forma segura
+utilizando cifrado. → No funcional.
+•
+El sistema debe cumplir con las regulaciones de protección de datos y privacidad
+de la información. → No funcional.
+•
+El tiempo de respuesta promedio para las solicitudes de los estudiantes no debe
+superar los 2 segundos. → No funcional.
+Identifica los requisitos funcionales y no funcionales.
+Ejercicio 2
+Se desea crear un sistema de gestión de reservas de tickets para un cine. (El sistema
+permitirá a los clientes consultar la disponibilidad de butacas para las películas en
+cartelera y realizar reservas) → Funcional. (Además, el personal del cine podrá ingresar
+información sobre las proyecciones y administrar las reservas)-→ Funcional. (Tanto los clientes
+como el personal del cine deben autenticarse para acceder al sistema, utilizando un nombre de
+usuario y una Contraseña). → Funcional. (Por lo tanto, es necesario mantener un registro de
+usuarios autorizados.)→No funcional. (Si la identificación no es correcta, el sistema negará el
+acceso al usuario.) → No funcional. (Además debes tener en cuenta que el sistema debe ser capaz
+de manejar al menos 1000 consultas de búsqueda simultáneas sin experimentar una degradación
+significativa del rendimiento) → No funcional, (el acceso al sistema debe requerir autenticación de
+dos factores para garantizar la seguridad de las cuentas de usuario) → No funcional, (el sistema
+debe estar disponible para su uso 24/7, con un tiempo de inactividad programado no superior a 2
+horas por mes y la interfaz de usuario debe ser intuitiva y cumplir con las pautas de accesibilidad
+WCAG 2.0 nivel AA para garantizar la accesibilidad para personas con discapacidades.) → No
+funcional. Identifica los requisitos funcionales y no funcionales.
