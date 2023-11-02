@@ -37,4 +37,4 @@ dos factores para garantizar la seguridad de las cuentas de usuario) → No func
 debe estar disponible para su uso 24/7, con un tiempo de inactividad programado no superior a 2
 horas por mes y la interfaz de usuario debe ser intuitiva y cumplir con las pautas de accesibilidad
 WCAG 2.0 nivel AA para garantizar la accesibilidad para personas con discapacidades.) → No
-funcional. Identifica los requisitos funcionales y no funcionales.
+funcional. Identifica los requisitos funcionales y no funcionales.**Modificacion para stage
